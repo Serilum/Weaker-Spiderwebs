@@ -1,6 +1,7 @@
 package com.natamus.weakerspiderwebs;
 
 import com.natamus.collective.check.RegisterMod;
+import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.weakerspiderwebs.neoforge.config.IntegrateNeoForgeConfig;
 import com.natamus.weakerspiderwebs.neoforge.events.NeoForgeWebEvent;
 import com.natamus.weakerspiderwebs.util.Reference;
@@ -15,6 +16,10 @@ import net.neoforged.fml.javafmlmod.FMLJavaModLoadingContext;
 public class ModNeoForge {
 	
 	public ModNeoForge(IEventBus modEventBus) {
+		if (!ShouldLoadCheck.shouldLoad(Reference.MOD_ID)) {
+			return;
+		}
+
 		modEventBus.addListener(this::loadComplete);
 
 		setGlobalConstants();
