@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "weakerspiderwebs",
+  "version": "3.7",
+
+  "name": "Weaker Spiderwebs",
+  "description": "Breaks spider webs/cobwebs with a configurable delay when walking through.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/weaker-spiderwebs",
+    "sources": "https://github.com/Serilum/Weaker-Spiderwebs",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Weaker%20Spiderwebs"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.weakerspiderwebs.ModFabric" ], "modmenu": [ "com.natamus.weakerspiderwebs.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "java": ">=21",
+    "collective": ">=7.84"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " Cherriesaurus",
+	  " kate1073",
+	  " Michael W. S.",
+	  " Tyler Behl",
+	  " XAgent"
+  ]
+}
