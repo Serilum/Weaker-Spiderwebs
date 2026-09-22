@@ -1,5 +1,5 @@
 <h2>Weaker Spiderwebs</h2>
-<p><a href="https://github.com/Serilum/Weaker-Spiderwebs"><img src="https://serilum.com/assets/images/logo/weaker-spiderwebs.png"></a></p><h2>Download</h2>
+<p><a href="https://github.com/Serilum/Weaker-Spiderwebs"><img src="https://workflow.serilum.com/web/logo/128/weaker-spiderwebs.png" width="100" height="100"></a></p><h2>Download</h2>
 <p>You can download Weaker Spiderwebs on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/weaker-spiderwebs">https://curseforge.com/minecraft/mc-mods/weaker-spiderwebs</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/weaker-spiderwebs">https://modrinth.com/mod/weaker-spiderwebs</a></p>
 <h2>Issue Tracker</h2>
 <p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
