@@ -1,10 +1,10 @@
-package com.natamus.weakerspiderwebs;
+package com.serilum.weakerspiderwebs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.weakerspiderwebs.forge.config.IntegrateForgeConfig;
-import com.natamus.weakerspiderwebs.forge.events.ForgeWebEvent;
-import com.natamus.weakerspiderwebs.util.Reference;
+import com.serilum.weakerspiderwebs.forge.config.IntegrateForgeConfig;
+import com.serilum.weakerspiderwebs.forge.events.ForgeWebEvent;
+import com.serilum.weakerspiderwebs.util.Reference;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
@@ -30,7 +30,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeWebEvent.registerEventsInBus();
+		ForgeWebEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {
