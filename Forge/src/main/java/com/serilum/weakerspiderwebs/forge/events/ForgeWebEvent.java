@@ -1,6 +1,6 @@
-package com.natamus.weakerspiderwebs.forge.events;
+package com.serilum.weakerspiderwebs.forge.events;
 
-import com.natamus.weakerspiderwebs.events.WebEvent;
+import com.serilum.weakerspiderwebs.events.WebEvent;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.player.Player;
