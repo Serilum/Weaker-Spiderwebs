@@ -1,10 +1,10 @@
-package com.natamus.weakerspiderwebs;
+package com.serilum.weakerspiderwebs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.weakerspiderwebs.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.weakerspiderwebs.neoforge.events.NeoForgeWebEvent;
-import com.natamus.weakerspiderwebs.util.Reference;
+import com.serilum.weakerspiderwebs.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.weakerspiderwebs.neoforge.events.NeoForgeWebEvent;
+import com.serilum.weakerspiderwebs.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;
