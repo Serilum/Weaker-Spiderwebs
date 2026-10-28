@@ -1,6 +1,6 @@
-package com.natamus.weakerspiderwebs;
+package com.serilum.weakerspiderwebs;
 
-import com.natamus.weakerspiderwebs.config.ConfigHandler;
+import com.serilum.weakerspiderwebs.config.ConfigHandler;
 
 public class ModCommon {
 

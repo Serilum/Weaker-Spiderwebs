@@ -1,7 +1,7 @@
-package com.natamus.weakerspiderwebs.events;
+package com.serilum.weakerspiderwebs.events;
 
 import com.natamus.collective.functions.TaskFunctions;
-import com.natamus.weakerspiderwebs.config.ConfigHandler;
+import com.serilum.weakerspiderwebs.config.ConfigHandler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;

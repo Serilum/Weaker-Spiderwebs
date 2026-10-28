@@ -1,7 +1,7 @@
-package com.natamus.weakerspiderwebs.config;
+package com.serilum.weakerspiderwebs.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.weakerspiderwebs.util.Reference;
+import com.serilum.weakerspiderwebs.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

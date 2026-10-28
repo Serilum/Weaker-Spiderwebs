@@ -1,10 +1,10 @@
-package com.natamus.weakerspiderwebs;
+package com.serilum.weakerspiderwebs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectivePlayerEvents;
-import com.natamus.weakerspiderwebs.events.WebEvent;
-import com.natamus.weakerspiderwebs.util.Reference;
+import com.serilum.weakerspiderwebs.events.WebEvent;
+import com.serilum.weakerspiderwebs.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;

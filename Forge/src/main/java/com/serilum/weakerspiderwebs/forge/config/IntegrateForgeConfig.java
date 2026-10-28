@@ -1,7 +1,7 @@
-package com.natamus.weakerspiderwebs.forge.config;
+package com.serilum.weakerspiderwebs.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.weakerspiderwebs.util.Reference;
+import com.serilum.weakerspiderwebs.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
